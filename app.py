@@ -1,7 +1,7 @@
 import streamlit as st
 st.title("👋I'm Jia Shu")
 st.header("I'm a UX Designer 👩‍🎨")
-st.image('./images/profilepic.png')
+st.image('images/profilepic.jpg')
 
 st.header("About")
 st.markdown(
